@@ -1,5 +1,5 @@
 # Random Quote Generator
-https://jarifibrahim.github.io/quote
+https://jarifibrahim.github.io/fcc/quote
 
 A simple webpage that generates random quotes.
 

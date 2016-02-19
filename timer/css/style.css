@@ -1,0 +1,118 @@
+body {
+  background-color: #333;
+  color: #fff;
+  width: 100%;
+}
+
+.container > h1 {
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 59px;
+  padding: 40px 50px;
+  text-align: center;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+}
+h1.deepshadow {
+  color: #E0DF4C;
+  background-color: #333;
+  letter-spacing: .1em;
+  text-shadow: 0 -1px 0 #ffffff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0, 0, 0, 0.9);
+}
+a:link,
+a:active,
+a:visited {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover,
+a:active {
+  color: #BBB;
+}
+
+.header {
+  margin: 10px auto;
+  height: 100px;
+  width: 50%;
+}
+
+#break h3{
+      color: darksalmon;
+}
+.inline {
+  display: inline-block;
+}
+
+#reset {
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+#reset h1 {
+  text-align: center;
+  margin:0px auto;
+}
+
+#reset > h1 > a{
+  color: rgba(104, 232, 102, 0.9);
+}
+
+#reset > h1 > a:hover{
+  color: #9AC5BA;
+}
+
+#session h3 {
+      color: mediumaquamarine;
+}
+#timer {
+  display: inline-block;
+  margin: 0px auto;
+}
+
+#timer span {
+  display: inline;
+  font-size: 30px;
+  margin: 0px auto;
+}
+
+#session {
+  float: right;
+}
+
+.increase {
+  font-size: 40px;
+  margin: 0px 10px 0px 0px;
+}
+
+.decrease {
+  font-size: 40px;
+  margin: 0px 0px 0px 10px;
+}
+
+#circle {
+  clear: both;
+  width: 300px;
+  height: 300px;
+  border: 2px solid #68E866;
+  border-radius: 50%;
+  margin: 10px auto;
+}
+
+.upper {
+  padding-top: 52px;
+  padding-left: 11px;
+}
+
+.upper h1 {
+  text-align: center;
+}
+
+.time {
+  padding-top: 70px;
+  padding-left: 99px;
+}
+
+.time > span {
+  font-size: 40px;
+}

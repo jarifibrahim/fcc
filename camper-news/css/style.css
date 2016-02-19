@@ -1,0 +1,44 @@
+body {
+  background-color: #123331;
+  color: #ddd;
+  width: 90%;
+  margin: 0px auto;
+}
+
+.container-fluid {
+  width: 1040px;
+}
+
+.news {
+  height: 300px;
+  width: 190px;
+  display: inline-block;
+  background-color: #124441;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin: 0px 5px 12px;
+}
+
+p {
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+
+.head {
+  color: #AAA;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: #BFB4AB;
+}
+
+.tail {
+  color: #FFF;
+}
+
+img {
+  margin: 5px 10px;
+  display: inline-block;
+  width: 170px;
+  height: 180px;
+}
